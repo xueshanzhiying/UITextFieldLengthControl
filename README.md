@@ -1,5 +1,7 @@
 # UITextFieldLength
-UITextField中限制长度(中英文混合)
+UITextField中限制长度(中英文混合)   
+
+限制只能输入中英文，中文2个字符，英文1个字符
 
 Demo中：
 
